@@ -1,0 +1,19 @@
+follow the styles guide from the file style-guide.md
+
+your first task is to make the component navbar, the desgin is available in the file "task-1.jpg"
+
+some rules you should follow in your task 
+
+- dont add styles to the body selector .
+- use the <nav> element when you build your navbar and make the width 100%.
+-add the .container class to all the nav child elements.
+- use the bootstap navbar and bootstrap components to build the navbar easily.
+
+
+use the link will help you alot while you are work : https://preview.colorlib.com/#electro
+
+and that's it.
+
+best regrads 
+
+Ali
